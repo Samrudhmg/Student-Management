@@ -1,0 +1,46 @@
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+form{
+    padding: 50px 50px;
+    background-color: #D2E3C8;
+    border-radius: 12px;
+}
+
+.main{
+    border: 4px solid rgb(0, 0, 0);
+    background-color: #D2E3C8;
+}
+.name{
+    background-color: #D2E3C8;
+}
+#namelabel{
+    background-color: #D2E3C8;
+    margin-bottom: 7px;
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.email{
+    background-color:#D2E3C8;
+}
+#emaillabel{
+    background-color: #D2E3C8;
+    margin-bottom: 7px;
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.btn{
+    margin-top: 1rem;
+    background-color: black;
+    color: aliceblue;
+}
+.btn:hover{
+    color: #000;
+    background-color: #fff;
+}
